@@ -1,4 +1,4 @@
-# todo
+# Trello Clone
 
 ## Project setup
 ```
@@ -15,5 +15,12 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### What we have to do
+```
+- Cards creating
+- Cards removing
+- Cards editing
+- Tasks creating
+- Tasks removing
+- Tasks editing
+```
