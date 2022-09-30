@@ -5,6 +5,7 @@ import DeskIcon from "@/components/icons/DeskIcon";
 import ReportIcon from "@/components/icons/ReportIcon";
 import CommentIcon from "@/components/icons/CommentIcon";
 import EditIcon from "@/components/icons/EditIcon";
+import CancelIcon from "@/components/icons/CancelIcon";
 
 export default [
     DashboardIcon,
@@ -13,5 +14,6 @@ export default [
     DeskIcon,
     ReportIcon,
     CommentIcon,
-    EditIcon
+    EditIcon,
+    CancelIcon
 ]

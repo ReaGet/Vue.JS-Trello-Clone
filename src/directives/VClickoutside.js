@@ -2,7 +2,7 @@ export default {
     name: 'click-outside',
     mounted(el, binding, vnode) {
         el.handleOutsideClick = function (event) {
-            console.log(el, event.target, el.contains(event.target))
+            // console.log(el, event.target, el.contains(event.target))
             if (!(el == event.target || el.contains(event.target))) {
                 binding.value();
             }
